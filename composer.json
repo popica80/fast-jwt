@@ -1,0 +1,14 @@
+{
+    "name": "popica80/fast-jwt",
+    "description": "A faster way to add JWT to Laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marian Popescu",
+            "email": "popescumarian1980@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
